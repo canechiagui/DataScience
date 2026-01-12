@@ -20,7 +20,7 @@ The curriculum integrates rigorous theory with practical Python implementation:
     </tr>
     <tr>
         <td style="padding: 10px; border: 1px solid #ddd;"><b>Data Manipulation</b></td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Advanced data structures in Python/R, <b>Pandas DataFrames</b>, NumPy array manipulation, and <b>Tidyverse</b>.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Advanced data structures in Python, <b>Pandas DataFrames</b>, NumPy array manipulation, and <b>Tidyverse</b>.</td>
     </tr>
     <tr>
         <td style="padding: 10px; border: 1px solid #ddd;"><b>Statistics & Prob.</b></td>
@@ -36,7 +36,7 @@ The curriculum integrates rigorous theory with practical Python implementation:
     </tr>
     <tr>
         <td style="padding: 10px; border: 1px solid #ddd;"><b>Quantitative Finance</b></td>
-        <td style="padding: 10px; border: 1px solid #ddd;">Anomaly detection, stationarity processes, and decision trees specifically for <b>Trading (EUR/USD)</b>.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Anomaly detection, stationarity processes, and decision trees specifically for <b>Trading </b>.</td>
     </tr>
 </table>
 
