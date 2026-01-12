@@ -1,39 +1,64 @@
 # Financial Data Science & Machine Learning 📈
 ### Applied Studies from "OutSpoken Market na Prática"
 
-This repository is dedicated to my learning journey in the **OutSpoken Market** course. Here, I apply core concepts of Data Science, Machine Learning, and Linear Algebra to financial markets using Python.
+This repository documents my learning journey and technical applications developed during the **OutSpoken Market** specialization. It covers the full spectrum of quantitative analysis, from mathematical foundations to advanced machine learning models applied to financial assets.
 
 ---
 
-## 🚀 Project Overview
-The main goal of this project is to automate financial analysis and build predictive models. Instead of using static files, I leverage real-time data to create dynamic technical indicators and trading signals.
-
-### Key Knowledge Areas:
-* **Python for Finance:** Data manipulation with Pandas and NumPy.
-* **Data Acquisition:** Automated fetching from **TradingView API** using `tvDatafeed`.
-* **Linear Algebra & Statistics:** Implementation of Moving Averages and cumulative sums for trend identification.
-* **Data Visualization:** Creating professional financial charts with Matplotlib, featuring conditional formatting for trend analysis.
+<div style="padding: 15px; border: 1px solid #e1e4e8; border-radius: 5px; background-color: #ffffff;">
+    <h2 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px;">🧠 Key Knowledge Areas</h2>
+    <p>The curriculum integrates rigorous theory with practical Python/R implementation:</p>
+    
+    <table style="width: 100%; border-collapse: collapse;">
+        <tr style="background-color: #f2f2f2;">
+            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Domain</th>
+            <th style="padding: 10px; text-align: left; border: 1px solid #ddd;">Applied Concepts</th>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;"><b>Mathematics & Logic</b></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">Real numbers algebra, linear algebra (vectors/matrices), and complex functions.</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;"><b>Data Manipulation</b></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">Advanced data structures in Python/R, <b>Pandas DataFrames</b>, NumPy array manipulation, and <b>Tidyverse</b>.</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;"><b>Statistics & Prob.</b></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">Central Limit Theorem, p-value analysis, bootstrapping, and fat tails/standard deviation.</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;"><b>Machine Learning</b></td>
+            <td style="padding: 10px; border: 1px solid #ddd;"><b>Supervised Learning:</b> Random Forest, XGBoost, and GLM. <br><b>Unsupervised:</b> K-means and PCA.</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;"><b>Deep Learning</b></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">Neural Networks from scratch, Gradient Descent optimization, and Image recognition with Scikit-learn.</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;"><b>Quantitative Finance</b></td>
+            <td style="padding: 10px; border: 1px solid #ddd;">Anomaly detection, stationarity processes, and decision trees specifically for <b>Trading (EUR/USD)</b>.</td>
+        </tr>
+    </table>
+</div>
 
 ---
 
-## 🛠️ Main Projects
+## 🛠️ Featured Projects
 
-### 1. Bitcoin Trend Analysis
+### 1. Bitcoin Trend Analysis & Visualization
 * **File:** `Bitcoin_Trend_Analysis.ipynb`
-* **Description:** An automated tool that calculates a dynamic Moving Average (MA) for BTC/USD.
-* **Features:** * Direct API connection (No CSV needed).
-    * Visual "Bullish/Bearish" indicators using conditional color masks.
+* **Concepts:** Automated data acquisition via **TradingView API**, custom Moving Average algorithms, and conditional data masking for trend identification.
 
-### 2. Neural Networks Foundations
+### 2. Perceptron & Neural Networks
 * **File:** `perceptron_neural_network.ipynb`
-* **Description:** Exploring the fundamentals of Machine Learning through the implementation of basic neural structures.
+* **Concepts:** Fundamental building blocks of AI, implementing logic gates and basic weights optimization.
 
 ---
 
 ## 🧰 Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
 
 ---
 
 ## ✍️ Author
-Developed by **Guilherme Canechia** as part of the specialized training at *OutSpoken Market*.
+**Guilherme Canechia** *Quantitative Finance & Data Science Student*
